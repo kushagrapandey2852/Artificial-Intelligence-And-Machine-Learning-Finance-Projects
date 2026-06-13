@@ -2,6 +2,9 @@
 
 A collection of machine learning and artificial intelligence projects for quantitative finance, trading, forecasting, NLP, and fraud detection.
 
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=80" width="100%">
+</div>
 
 ---
 
